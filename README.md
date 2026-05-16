@@ -1,6 +1,6 @@
 # 🧠 Consultas Avançadas SQL: Dashboard de E-commerce com SQL e Power BI
 
-Este projeto faz parte do Módulo 26 do curso de Cientista de Dados da EBAC e tem como objetivo aplicar técnicas de SQL, tratamento de dados e visualização no Power BI para análise de desempenho de um e-commerce.
+Este projeto faz parte do Módulo Operações Avançadas SQL do curso de Cientista de Dados da EBAC e tem como objetivo aplicar técnicas de SQL, tratamento de dados e visualização no Power BI para análise de desempenho de um e-commerce.
 
 A atividade foi desenvolvida a partir da integração entre bases de transações e clientes, permitindo explorar métricas de vendas, comportamento de clientes assíduos e padrões de consumo.
 
